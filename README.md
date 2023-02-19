@@ -1,15 +1,24 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is SAMUEL ABREHA
 =====================================================================================================================================
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+:man_technologist: About Me :
+
 
 Software Engineer (Java, React js)
 ----------------------------------
 
-I am on a self-taught journey, working full time and studying Microservice in between! Java and JavaScript were my first Language and I'm currently a Full Stack Java developer.
+I'm a software engineer who is enthusiastic about community building, elevating people through technology, and making open-source development more approachable. I like working with a variety of technologies, such as JavaScript (ReactJS) and Java (Backend - SpringBoot + Microservice).
 
 *   🌍  I'm based in Oakland, CA
+*   :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 *   ✉️  You can contact me at [ezgihaysh@gmail.com](mailto:ezgihaysh@gmail.com)
-*   🧠  I'm learning Microservice
-*   🤝  I'm open to collaborating on open-source or personal projects.### Skills 
+*   🧠  I'm learning Java Microservices.
+*   :zap: In my free time, I solve problems on GeeksforGeeks | Leetcode and read tech articles.
+*   🤝  I'm open to collaborating on open-source or personal projects.
+### :hammer_and_wrench: Skills - (Languages and Tools) :
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
