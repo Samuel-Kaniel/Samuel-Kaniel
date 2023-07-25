@@ -10,7 +10,7 @@ Software Engineer (Java, React js)
 
 I'm a software engineer who is enthusiastic about community building, elevating people through technology, and making open-source development more approachable. I like working with a variety of technologies, such as JavaScript (ReactJS) and Java (Backend - SpringBoot + Microservice).
 
-*   🌍  I'm based in Oakland, CA
+*   🌍  I'm based in California.
 *   :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 *   ✉️  You can contact me at [ezgihaysh@gmail.com](mailto:ezgihaysh@gmail.com)
 *   🧠  I'm learning Java Microservices.
