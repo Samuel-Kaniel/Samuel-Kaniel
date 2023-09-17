@@ -13,7 +13,7 @@ I'm a software engineer who is enthusiastic about community building, elevating 
 *   🌍  I'm based in California.
 *   :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 *   ✉️  You can contact me at [ezgihaysh@gmail.com](mailto:ezgihaysh@gmail.com)
-*   🧠  I'm learning Cloud Computing | AWS.
+*   🧠  I'm learning Cloud Infrastructure | AWS | and Revising System Design.
 *   :zap: In my free time, I solve problems on GeeksforGeeks | Leetcode and read tech articles.
 *   🤝  I'm open to collaborating on open-source or personal projects.
 ### :hammer_and_wrench: Skills - (Languages and Tools) :
