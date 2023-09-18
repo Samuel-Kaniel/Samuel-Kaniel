@@ -13,9 +13,10 @@ I'm a software engineer who is enthusiastic about community building, elevating 
 *   🌍  I'm based in California.
 *   :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 *   ✉️  You can contact me at [ezgihaysh@gmail.com](mailto:ezgihaysh@gmail.com)
-*   🧠  I'm learning Cloud Infrastructure | AWS | and Revising System Design.
+*   🧠 Aspiring Cloud Architect ☁️ | AWS Enthusiast  💡 Exploring the Depths of Cloud Computing & Architecture Design 🚀📝 Sharing Insights on System Design & Microservices on my GitHub Profile 🌟
 *   :zap: In my free time, I solve problems on GeeksforGeeks | Leetcode and read tech articles.
 *   🤝  I'm open to collaborating on open-source or personal projects.
+*   Let's Build Scalable, Resilient, and Efficient Cloud Solutions! 💪
 ### :hammer_and_wrench: Skills - (Languages and Tools) :
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
