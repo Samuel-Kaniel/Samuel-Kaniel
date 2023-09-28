@@ -8,7 +8,7 @@
 Software Engineer (Java, React js | Angular) | Aspiring Cloud Architect ☁️ | AWS Enthusiast
 ----------------------------------
 
-I'm a software engineer who is enthusiastic about community building, elevating people through technology, and making open-source development more approachable. I like working with a variety of technologies, such as JavaScript (ReactJS) and Java (Backend - SpringBoot + Microservice).
+I'm a passionate software engineer with a focus on community building, empowering individuals through technology, and enhancing accessibility in open-source development. I excel in working with a diverse range of technologies, including JavaScript (ReactJs | Angular) and Java (Backend - Springboot + Microservices), as well as expertise in System Design and Cloud Architecture.
 
 *   🌍  I'm based in California.
 *   :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
