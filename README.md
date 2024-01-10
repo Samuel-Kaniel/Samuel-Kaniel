@@ -5,7 +5,7 @@
 :man_technologist: About Me :
 
 
-Software Engineer (Java, React js | Angular) | Aspiring Cloud Architect ☁️ | AWS Enthusiast
+Software Engineer  |  Cloud DevOps Engineering ☁️
 ----------------------------------
 
 I'm a passionate software engineer with a focus on community building, empowering individuals through technology, and enhancing accessibility in open-source development. I excel in working with a diverse range of technologies, including JavaScript (ReactJs | Angular) and Java (Backend - Springboot + Microservices), as well as expertise in System Design and Cloud Architecture.
