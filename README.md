@@ -10,7 +10,7 @@ Software Engineer  |  Cloud DevOps Engineering ☁️
 
 I'm a passionate software engineer with a focus on community building, empowering individuals through technology, and enhancing accessibility in open-source development. I excel in working with a diverse range of technologies, including JavaScript (ReactJs | Angular) and Java (Backend - Springboot + Microservices), as well as expertise in System Design and Cloud Architecture.
 
-*   🌍  I'm based in California.
+*   🌍  I'm based in United States.
 *   :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 *   ✉️  You can contact me at [ezgihaysh@gmail.com](mailto:ezgihaysh@gmail.com)
 *   🧠 AWS Cloud DevOps ☁️ |  💡 Exploring the Depths of Cloud Computing & Architecture Design 🚀📝 Sharing on (https://medium.com/@ezgihaysh) & also Sharing Insights on System Design & Microservices on (https://hashnode.com/@Abreha) 🌟
