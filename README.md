@@ -13,7 +13,7 @@ I'm a passionate software engineer with a focus on community building, empowerin
 *   🌍  I'm based in San Antonio, Texas.
 *   :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 *   ✉️  You can contact me at [ezgihaysh@gmail.com](mailto:ezgihaysh@gmail.com)
-*   🧠 AWS Cloud DevOps ☁️ |  💡 Exploring the Depths of Cloud Computing & Architecture Design 🚀📝 Sharing on (https://medium.com/@ezgihaysh) & also Sharing Insights on System Design & Microservices on (https://hashnode.com/@Abreha) 🌟
+*   🧠 ML Engineerin |  💡 Exploring the Depths of Cloud Computing & Architecture Design 🚀📝 Sharing on (https://medium.com/@ezgihaysh) & also Sharing Insights on System Design & Microservices on (https://hashnode.com/@Abreha) 🌟
 *   :zap: In my free time, I solve problems on GeeksforGeeks | Leetcode and read tech articles.
 *   🤝  I'm open to collaborating on open-source or personal projects.
 *   Let's Build Scalable, Resilient, and Efficient Cloud Solutions! 💪
