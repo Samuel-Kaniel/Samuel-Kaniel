@@ -8,7 +8,7 @@
 Software Engineer  |  ML Engineering
 ----------------------------------
 
-I'm a passionate software engineer with a focus on community building, empowering individuals through technology, and enhancing accessibility in open-source development. I excel in working with a diverse range of technologies, including JavaScript (ReactJs | Angular) and Java (Backend - Springboot + Microservices), as well as expertise in System Design and Cloud Architecture.
+I'm a passionate software engineer with a focus on community building, empowering individuals through technology, and enhancing accessibility in open-source development. I excel in working with a diverse range of technologies, including JavaScript (ReactJs | Angular) and Java (Backend - Springboot + Microservices).
 
 *   🌍  I'm based in San Antonio, Texas.
 *   :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
