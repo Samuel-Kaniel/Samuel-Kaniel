@@ -11,11 +11,9 @@ Software Engineer  |  ML Engineering
 I'm a passionate software engineer with a focus on community building, empowering individuals through technology, and enhancing accessibility in open-source development. I excel in working with a diverse range of technologies, including JavaScript (ReactJs | Angular) and Java (Backend - Springboot + Microservices).
 
 *   🌍  I'm based in San Antonio, Texas.
-*   :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+*   :telescope: I’m working as a Software Engineer in Finacial Sector.
 *   ✉️  You can contact me at [ezgihaysh@gmail.com](mailto:ezgihaysh@gmail.com)
-*   🧠 ML Engineerin |  💡 Exploring the Depths of Cloud Computing & Architecture Design 🚀📝 Sharing on (https://medium.com/@ezgihaysh) & also Sharing Insights on System Design & Microservices on (https://hashnode.com/@Abreha) 🌟
-*   :zap: In my free time, I solve problems on GeeksforGeeks | Leetcode and read tech articles.
-*   🤝  I'm open to collaborating on open-source or personal projects.
+*   🧠 ML Engineerin |  💡 Exploring the Depths of Cloud Computing & Architecture Design 🚀📝 Sharing on (https://medium.com/@ezgihaysh)
 *   Let's Build Scalable, Resilient, and Efficient Cloud Solutions! 💪
 ### :hammer_and_wrench: Skills - (Languages and Tools) :
 <p align="left">
